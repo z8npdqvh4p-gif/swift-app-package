@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 name: Build iOS
 
 on:
@@ -87,3 +86,4 @@ jobs:
     - name: Build Swift Package
       run: swift build
 >>>>>>> 12e817665a869ac81724c1790b191cca18c3d208
+
